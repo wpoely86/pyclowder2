@@ -34,7 +34,7 @@ setup(name='pyclowder',
       install_requires=[
           'enum34==1.1.6',
           'pika==1.0.0',
-          'PyYAML==5.1',
+          'PyYAML==5.4',
           'requests==2.21.0',
           'requests-toolbelt==0.9.1',
       ],
